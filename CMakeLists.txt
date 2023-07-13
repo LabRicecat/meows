@@ -11,4 +11,4 @@ set(SOURCE
     )
 
 add_executable(${BINARY} ${SOURCE})
-install(TARGET ${BINARY})
+install(TARGETS ${BINARY})
