@@ -1,0 +1,10 @@
+[Main]
+
+[Info]
+name = "meows"
+version = "0.0.0"
+
+[Download]
+dependencies = ["https://raw.githubusercontent.com/labricecat/fnyactional/main/","https://raw.githubusercontent.com/labricecat/carescript-api/main/","https://raw.githubusercontent.com/labricecat/nyasm/main/","https://raw.githubusercontent.com/labricecat/mathenyatica/main/"]
+files = ["meows.cpp"]
+
